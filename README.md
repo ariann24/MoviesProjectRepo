@@ -76,7 +76,7 @@ Form Body Sample:
 1. Change the **data source=** value, using your localhost server name.
 1. Click run to test the API's
   
- **Note:** During the code first run in the .net core implementation, I just use the generated database and created a model entity in the .net standard implementation.
+ **Note:** During the code first run in the .net core implementation, I just use the generated database and created a model entity in the .net standard implementation. If you are not able to run the database I included a .bak file in the repository. Please use it if incase.
 
 - Rest API's for .net core implementation usage
 1. Post: https://localhost:44371/api/user/create_user - This api is used to create user account.
